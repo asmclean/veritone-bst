@@ -5,7 +5,7 @@ npm i
 npm run test
 ```
 Example usage:
-``` 
+```TypeScript
 import { BinarySearchTree } from 'veritone-bst';
 
 const bst = new BinarySearchTree();
